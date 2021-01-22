@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" , "initial-scale=1.0">
+  <title>Mark Jager</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css"
+    integrity="sha256-46qynGAkLSFpVbEBog43gvNhfrOj+BmwXdxFgVK/Kvc=" crossorigin="anonymous" />
+  <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,900|Source+Sans+Pro:300,900&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <header class="header" id="header">
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" />
+    <label for="nav-toggle" class="nav-toggle-label">
+      <span class="nav-icon"></span>
+    </label>
+    <ul class="nav__list">
+      <li class="nav__item">
+        <a href="#header" class="nav__link">Home</a>
+      </li>
+      <li class="nav__item">
+        <a href="#work" class="nav__link">Projects</a>
+      </li>
+      <li class="nav__item">
+        <a href="#contact" class="nav__link">Contact</a>
+      </li>
+    </ul>
+  </header>
+
+  <!-- About Me / Home -->
+  <section class="about-me" id="about">
+    <h2 class="section__title section__title--about">Mark Jager</h2>
+    <p class="section__subtitle section__subtitle--about">
+      computer science student
+    </p>
+
+    <img src="img/mark-jager-01.jpg" alt="my profile picture" class="about-me__img" />
+
+    <div class="about-me__body">
+      <p>
+        Hi, I'm Mark! I'm a computer science student at Auburn University. I'm
+        passionate about technology and enjoy building software to solve
+        problems.
+      </p>
+      <p>
+        In my free time I like to experiment with different languages and
+        frameworks. Learning new concepts, ideas, and tools has allowed me to
+        envision new features and improve current projects. There's always
+        something new to learn, which is one of the reasons I enjoy it so
+        much.
+      </p>
+      <p>
+        Apart from writing code, I enjoy spending time with my family and
+        reading about history.
+      </p>
+      <p>Feel free to connect or send a message!</p>
+      <a href="resume/Jager_resume.pdf" class="resume" download="Jager_resume" target="_blank">View Resume (pdf)</a>
+
+      <ul class="social-list">
+        <li class="social-list__item">
+          <a class="social-list__link" href="https://www.linkedin.com/in/markjager13/">
+            <i class="fab fa-linkedin"></i>
+          </a>
+        </li>
+        <li class="social-list__item">
+          <a class="social-list__link" href="https://github.com">
+            <i class="fab fa-github"></i>
+          </a>
+        </li>
+        <li class="social-list__item">
+          <a class="social-list__link" href="#contact">
+            <i class="far fa-envelope"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Projects -->
+  <section class="my-work" id="work">
+    <h2 class="section__title section__title--work">Projects</h2>
+
+    <div class="cards">
+      <div class="card">
+        <div class="card__image-container">
+          <img class="card__image" src="img/portfolio-01.jpg" alt="" tabindex="0" />
+        </div>
+        <div class="card__content">
+          <p class="card__title">
+            Project Title
+          </p>
+          <p class="card__subtitle">
+            Alias itaque praesentium
+          </p>
+        </div>
+        <a href="project-item.html" class="btn">Learn more</a>
+      </div>
+
+      <div class="card">
+        <div class="card__image-container">
+          <img class="card__image" src="img/portfolio-02.jpg" alt="" />
+        </div>
+        <div class="card__content">
+          <p class="card__title">
+            Project Title
+          </p>
+          <p class="card__subtitle">
+            Alias itaque praesentium
+          </p>
+        </div>
+        <a href="project-item.html" class="btn">Learn more</a>
+      </div>
+
+      <div class="card">
+        <div class="card__image-container">
+          <img class="card__image" src="img/portfolio-03.jpg" alt="" />
+        </div>
+        <div class="card__content">
+          <p class="card__title">
+            Project Title
+          </p>
+          <p class="card__subtitle">
+            Alias itaque praesentium
+          </p>
+        </div>
+        <a href="project-item.html" class="btn">Learn more</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="contact" id="contact">
+    <h2 class="section__title section__title--contact">Get in touch</h2>
+    <div class="row">
+      <div class="column">
+        <form action="/action_page.php">
+          <label class="form__label" for="name">Name</label>
+          <input type="text" id="name" name="name" placeholder="Your name" />
+          <label class="form__label" for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="Your email" />
+          <label class="form__label" for="message">Message</label>
+          <textarea id="message" name="message" placeholder="Write your message" style="height: 170px;"></textarea>
+          <input type="submit" value="Send Message" />
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Copyright -->
+  <div class="copyright">
+    <p>&copy Mark Jager</p>
+    <span> | </span>
+    <a href="#header" class="to__top">Back to top</a>
+  </div>
+</body>
+
+</html>

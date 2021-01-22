@@ -1,0 +1,84 @@
+About Me - Examples
+
+Hello! I’m a Computer Science student at Worcester Polytechnic Institute. I enjoy designing robust, scalable software solutions, and hope to pursue a future career in Software Architecture.
+
+Working with technology is a passion and hobby of mine. I often use my free time to experiment with different languages, frameworks, and hardware to maintain a well-rounded skill set.
+
+If I’m not at one of my computers, you’ll likely find me on the water with my teammates on the WPI Crew team.
+
+
+Draft:
+Hello! I'm a computer science student at Auburn University. I'm passionate about technology and enjoy building software to solve problems. 
+
+In my free time, I love to experiment with different languages and learn new frameworks. 
+
+Apart from writing code, I enjoy spending time with my family and reading about history.  
+
+Feel free to connect or send a message! 
+
+///stuff to add
+excited to persue a career in software development
+senior...graduating march 2021
+stuff im currently working on 
+
+2nd Draft:
+Hi, I'm Mark! I'm a computer science student at Auburn University. I'll be graduating in March 2021 and am excited to start a career in software development. 
+
+In my free time I like to experiment with different languages and frameworks. Learning new concepts, ideas, and tools has allowed me to envision new features and improve current projects. 
+There's always something new to learn, which is one of the reasons I enjoy it so much. 
+
+Apart from writing code, I enjoy spending time with my family and reading about history.  
+
+Feel free to connect or send a message!
+
+
+3rd Draft:
+Hi, I'm Mark! I'm a computer science student at Auburn University. I'm passionate about technology and am excited to start a career in software development. 
+
+In my free time I like to experiment with different languages and frameworks. Learning new concepts, ideas, and tools has allowed me to envision new features and improve current projects. 
+There's always something new to learn, which is one of the reasons I enjoy it so much. 
+
+Apart from writing code, I enjoy spending time with my family and reading about history.  
+
+Feel free to connect or send a message!
+
+
+
+misc notes...
+
+Apart from writing code, I enjoy spending time with my family and reading about history.  
+Side projects are a way for me to strengthen upon the 
+Currently I've been working with the spring framework and have been exploring both react and angular as a way to build dynamic web applications.  
+If I'm not writing code or spending time with my family, you'll likely find me reading history books, especially those covering medieval europe. 
+Apart from writing code, I enjoy reading about medieval history and studying ancient languages. 
+Apart from writing code, a favorite hobby of mine is reading about medieval history. 
+
+OOP
+Above all, I strive to
+I strive to write readible, scalable code 
+I love to experiment with different languages and frameworks
+to maintain a well-rounded skillset. 
+
+Passion, motivation, interests, "golden nugget"
+
+Hobby personal
+
+**robust = error control & testing
+**scalable
+
+
+
+Summary:
+seeking internship
+what i've done and am doing in addition to coursework (html, css, js ...react)
+mention why transitioning...army/veteran (leadership exp.)...passion for cs
+
+outline:
+1. student Auburn online + working full time. in addition to studies react project. seeking internship
+2. transition passion veteran etc. 
+3. soft skills communication teams leadership
+
+
+Computer science student working towards transitioning into a career in software development. I am currently pursuing a Bachelor's in Computer Science through Auburn University's online degree program. In addition to my coursework, I enjoy developing my knowledge of Javascript and React. I am seeking internship and co-op opportunities in the Washington DC area to gain experience working with experienced professionals. 
+
+CS student currently enrolled in a post baccalaureate program through Auburn University. Interest in full-stack, front-end, and back-end development.
